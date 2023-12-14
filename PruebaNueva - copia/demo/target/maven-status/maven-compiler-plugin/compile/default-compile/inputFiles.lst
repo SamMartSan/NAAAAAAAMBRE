@@ -1,0 +1,13 @@
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\DemoApplication.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\security\JWTAuthenticationFilter.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\security\TokenUnits.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\security\JWTAuthorizationFilter.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\service\IUsuarioService.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\entity\Usuario.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\security\AuthCredentials.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\security\WebSecurityConfig.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\controller\UsuarioController.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\repository\UsuarioRepository.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\security\AuthResponse.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\security\UserDetailServiceImpl.java
+C:\Users\samuel.martinez\Desktop\PruebaNueva\demo\src\main\java\com\example\demo\security\UserDetailsImpl.java
